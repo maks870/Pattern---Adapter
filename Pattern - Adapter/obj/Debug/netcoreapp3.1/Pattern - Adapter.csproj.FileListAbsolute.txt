@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Pattern - Adapter\Pattern - Adapter\bin\Debug\netcoreapp3.1\Pattern - Adapter.exe
+C:\Users\Administrator\source\repos\Pattern - Adapter\Pattern - Adapter\bin\Debug\netcoreapp3.1\Pattern - Adapter.deps.json
+C:\Users\Administrator\source\repos\Pattern - Adapter\Pattern - Adapter\bin\Debug\netcoreapp3.1\Pattern - Adapter.runtimeconfig.json
+C:\Users\Administrator\source\repos\Pattern - Adapter\Pattern - Adapter\bin\Debug\netcoreapp3.1\Pattern - Adapter.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Pattern - Adapter\Pattern - Adapter\bin\Debug\netcoreapp3.1\Pattern - Adapter.dll
+C:\Users\Administrator\source\repos\Pattern - Adapter\Pattern - Adapter\bin\Debug\netcoreapp3.1\Pattern - Adapter.pdb
+C:\Users\Administrator\source\repos\Pattern - Adapter\Pattern - Adapter\obj\Debug\netcoreapp3.1\Pattern - Adapter.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Pattern - Adapter\Pattern - Adapter\obj\Debug\netcoreapp3.1\Pattern - Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Pattern - Adapter\Pattern - Adapter\obj\Debug\netcoreapp3.1\Pattern - Adapter.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Pattern - Adapter\Pattern - Adapter\obj\Debug\netcoreapp3.1\Pattern - Adapter.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Pattern - Adapter\Pattern - Adapter\obj\Debug\netcoreapp3.1\Pattern - Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Pattern - Adapter\Pattern - Adapter\obj\Debug\netcoreapp3.1\Pattern - Adapter.dll
+C:\Users\Administrator\source\repos\Pattern - Adapter\Pattern - Adapter\obj\Debug\netcoreapp3.1\Pattern - Adapter.pdb
+C:\Users\Administrator\source\repos\Pattern - Adapter\Pattern - Adapter\obj\Debug\netcoreapp3.1\Pattern - Adapter.genruntimeconfig.cache
